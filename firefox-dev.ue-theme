@@ -14,35 +14,35 @@ Custom
     <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON" Category="Dockable Window" Description="Caption Button" Value="#707070"/>
     <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_HIGHLIGHT" Category="Dockable Window" Description="Caption Button Highlight" Value="#505050"/>
     <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_MOUSEDOWN" Category="Dockable Window" Description="Caption Button Mouse Down" Value="#505050"/>
-    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER" Category="Dockable Window" Description="Caption Border" Value="#404040"/>
-    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER_SHADOW" Category="Dockable Window" Description="Caption Border Shadow" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER" Category="Dockable Window" Description="Caption Border" Value="#343C45"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER_SHADOW" Category="Dockable Window" Description="Caption Border Shadow" Value="#14171A"/>
     <Color ID="ID_DOCKABLE_WINDOW_BORDER" Category="Dockable Window" Description="Border" Value="#FF0000"/>
     <Color ID="ID_DOCKABLE_WINDOW_BORDER_SHADOW" Category="Dockable Window" Description="Border Shadow" Value="#FF0000"/>
-    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER" Category="Dockable Window" Description="Floating Border" Value="#404040"/>
-    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER_SHADOW" Category="Dockable Window" Description="Floating Border Shadow" Value="#404040"/>
-    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_OUTER_BORDER" Category="Dockable Window" Description="Floating Outer Border" Value="#404040"/>
-    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_OUTER_BORDER_SHADOW" Category="Dockable Window" Description="Floating Outer Border Shadow" Value="#404040"/>
-    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_TEXT" Category="Dockable Window" Description="Floating Caption Text" Value="#5C6773"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER" Category="Dockable Window" Description="Floating Border" Value="#343C45"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER_SHADOW" Category="Dockable Window" Description="Floating Border Shadow" Value="#14171A"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_OUTER_BORDER" Category="Dockable Window" Description="Floating Outer Border" Value="#343C45"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_OUTER_BORDER_SHADOW" Category="Dockable Window" Description="Floating Outer Border Shadow" Value="#14171A"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_TEXT" Category="Dockable Window" Description="Floating Caption Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER_ACTIVE" Category="Dockable Window" Description="Floating Border Active" Value="#FF0000"/>
     <Color ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_TEXT_ACTIVE" Category="Dockable Window" Description="Floating Caption Text Active" Value="#C8CDD2"/>
-    <Color ID="ID_MENU_TEXT" Category="Menu" Description="Text" Value="#5C6773"/>
-    <Color ID="ID_MENU_BACKGROUND" Category="Menu" Description="Background" Value="#606060"/>
+    <Color ID="ID_MENU_TEXT" Category="Menu" Description="Text" Value="#A9BACB"/>
+    <Color ID="ID_MENU_BACKGROUND" Category="Menu" Description="Background" Value="#252C33"/>
     <Color ID="ID_MENU_TEXT_DISABLED" Category="Menu" Description="Text Disabled" Value="#37414A"/>
-    <Color ID="ID_MENU_ITEM_BACKGROUND_HIGHLIGHT" Category="Menu" Description="Highlighted Item Background" Value="#808080"/>
-    <Color ID="ID_MENU_ITEM_TEXT_HIGHLIGHT" Category="Menu" Description="Highlighted Item Text" Value="#C8CDD2"/>
-    <Color ID="ID_MENU_ITEM_BORDER_HIGHLIGHT" Category="Menu" Description="Highlighted Item Border" Value="#606060"/>
-    <Color ID="ID_MENU_ITEM_CHECKED_BACKGROUND" Category="Menu" Description="Checked Item Background" Value="#606060"/>
+    <Color ID="ID_MENU_ITEM_BACKGROUND_HIGHLIGHT" Category="Menu" Description="Highlighted Item Background" Value="#14171A"/>
+    <Color ID="ID_MENU_ITEM_TEXT_HIGHLIGHT" Category="Menu" Description="Highlighted Item Text" Value="#A9BACB"/>
+    <Color ID="ID_MENU_ITEM_BORDER_HIGHLIGHT" Category="Menu" Description="Highlighted Item Border" Value="#343C45"/>
+    <Color ID="ID_MENU_ITEM_CHECKED_BACKGROUND" Category="Menu" Description="Checked Item Background" Value="#252C33"/>
     <Color ID="ID_MENU_ITEM_CHECKED_BORDER" Category="Menu" Description="Checked Item Border" Value="#FF0000"/>
-    <Color ID="ID_MENU_ITEM_CHECKED_BACKGROUND_HIGHLIGHT" Category="Menu" Description="Highlighted Checked Item Background" Value="#808080"/>
-    <Color ID="ID_MENU_ITEM_CHECKED_BORDER_HIGHLIGHT" Category="Menu" Description="Highlighted Checked Item Border" Value="#808080"/>
-    <Color ID="ID_MENU_BORDER" Category="Menu" Description="Border" Value="#606060"/>
-    <Color ID="ID_MENU_BORDER_SHADOW" Category="Menu" Description="Border Shadow" Value="#606060"/>
-    <Color ID="ID_MENU_TOP_LEVEL_BACKGROUND_ACTIVE" Category="Menu" Description="Top Level Background Active" Value="#606060"/>
-    <Color ID="ID_MENU_TOP_LEVEL_TEXT" Category="Menu" Description="Top Level Text" Value="#5C6773"/>
-    <Color ID="ID_MENU_TOP_LEVEL_TEXT_ACTIVE" Category="Menu" Description="Top Level Text Active" Value="#C8CDD2"/>
+    <Color ID="ID_MENU_ITEM_CHECKED_BACKGROUND_HIGHLIGHT" Category="Menu" Description="Highlighted Checked Item Background" Value="#14171A"/>
+    <Color ID="ID_MENU_ITEM_CHECKED_BORDER_HIGHLIGHT" Category="Menu" Description="Highlighted Checked Item Border" Value="#A9BACB"/>
+    <Color ID="ID_MENU_BORDER" Category="Menu" Description="Border" Value="#14171A"/>
+    <Color ID="ID_MENU_BORDER_SHADOW" Category="Menu" Description="Border Shadow" Value="#A9BACB"/>
+    <Color ID="ID_MENU_TOP_LEVEL_BACKGROUND_ACTIVE" Category="Menu" Description="Top Level Background Active" Value="#37414A"/>
+    <Color ID="ID_MENU_TOP_LEVEL_TEXT" Category="Menu" Description="Top Level Text" Value="#A9BACB"/>
+    <Color ID="ID_MENU_TOP_LEVEL_TEXT_ACTIVE" Category="Menu" Description="Top Level Text Active" Value="#A9BACB"/>
     <Color ID="ID_MENU_TOP_LEVEL_HIGHLIGHT_BACKGROUND" Category="Menu" Description="Highlighted Top Level Background" Value="#FF0000"/>
     <Color ID="ID_MENU_TOP_LEVEL_TEXT_HIGHLIGHT" Category="Menu" Description="Highlighted Top Level Text" Value="#FF0000"/>
-    <Color ID="ID_MENU_SEPARATOR" Category="Menu" Description="Separator" Value="#808080"/>
+    <Color ID="ID_MENU_SEPARATOR" Category="Menu" Description="Separator" Value="#37414A"/>
     <Color ID="ID_TOOLBAR_SEPARATOR" Category="Toolbar" Description="Separator" Value="#FF0000"/>
     <Color ID="ID_TOOLBAR_ITEM_BACKGROUND_HIGHLIGHT" Category="Toolbar" Description="Highlighted Item Background" Value="#FF0000"/>
     <Color ID="ID_TOOLBAR_ITEM_BORDER_HIGHLIGHT" Category="Toolbar" Description="Highlighted item Border" Value="#FF0000"/>
@@ -55,7 +55,7 @@ Custom
     <Color ID="ID_TOOLBAR_GRIPPER_SHADOW" Category="Toolbar" Description="Gripper Shadow" Value="#404040"/>
     <Color ID="ID_TOOLBAR_BORDER" Category="Toolbar" Description="Border" Value="#FF0000"/>
     <Color ID="ID_TOOLBAR_BORDER_SHADOW" Category="Toolbar" Description="Border Shadow" Value="#404040"/>
-    <Color ID="ID_TOOLBAR_COMBO_BORDER" Category="Toolbar" Description="Combobox border" Value="#404040"/>
+    <Color ID="ID_TOOLBAR_COMBO_BORDER" Category="Toolbar" Description="Combobox border" Value="#14171A"/>
     <Color ID="ID_FILETAB_BORDER" Category="File Tab" Description="Tab Border" Value="#A8A8A8"/>
     <Color ID="ID_FILETAB_BORDER_ACCENT" Category="File Tab" Description="Tab Border Accent" Value="#343C45"/>
     <Color ID="ID_FILETAB_TEXT" Category="File Tab" Description="Tab Text" Value="#5C6773"/>
@@ -78,12 +78,12 @@ Custom
     <Color ID="ID_FILETABS_BORDER" Category="File Tabs Control" Description="Control Border" Value="#252C33"/>
     <Color ID="ID_FILETABS_BORDER_SHADOW" Category="File Tabs Control" Description="Control Border Shadow" Value="#FF0000"/>
     <Color ID="ID_FILETABS_TABAREA_BORDER" Category="File Tabs Control" Description="Tab Area Border" Value="#14171A"/>
-    <Color ID="ID_FILETABS_TABAREA_OUTER_BORDER" Category="File Tabs Control" Description="Tab Area Outer Border" Value="#5C6773"/>
+    <Color ID="ID_FILETABS_TABAREA_OUTER_BORDER" Category="File Tabs Control" Description="Tab Area Outer Border" Value="#343C45"/>
     <Color ID="ID_FILETABS_TABAREA_INNER_BORDER" Category="File Tabs Control" Description="Tab Area Inner Border" Value="#14171A"/>
     <Color ID="ID_FILETABS_BASELINE" Category="File Tabs Control" Description="Tabs Base Line" Value="#14171A"/>
     <Color ID="ID_OUTPUTTABS_BACKGROUND" Category="Output Tabs Control" Description="Control Background" Value="#404040"/>
-    <Color ID="ID_OUTPUTTABS_BORDER" Category="Output Tabs Control" Description="Control Border" Value="#404040"/>
-    <Color ID="ID_OUTPUTTABS_BASELINE" Category="Output Tabs Control" Description="Tabs Base Line" Value="#505050"/>
+    <Color ID="ID_OUTPUTTABS_BORDER" Category="Output Tabs Control" Description="Control Border" Value="#343C45"/>
+    <Color ID="ID_OUTPUTTABS_BASELINE" Category="Output Tabs Control" Description="Tabs Base Line" Value="#343C45"/>
     <Color ID="ID_GROUPTABS_BASELINE" Category="Group Tabs Control" Description="Tabs Base Line" Value="#FF0000"/>
     <Color ID="ID_GROUPTABS_BACKGROUND" Category="Group Tabs Control" Description="Control Background" Value="#404040"/>
     <Color ID="ID_GROUPTABS_BORDER" Category="Group Tabs Control" Description="Control Border" Value="#404040"/>
@@ -115,7 +115,7 @@ Custom
     <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Active Caption Background" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Floating Caption Background" Start="#303030" Finish="#303030"/>
     <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Floating Caption Background Active" Start="#004D71" Finish="#0088CA"/>
-    <Gradient ID="ID_MENU_BAR_BACKGROUND_GRADIENT" Category="Menu" Description="Menu Bar Background Gradient" Start="#404040" Finish="#404040"/>
+    <Gradient ID="ID_MENU_BAR_BACKGROUND_GRADIENT" Category="Menu" Description="Menu Bar Background Gradient" Start="#252C33" Finish="#252C33"/>
     <Gradient ID="ID_TOOLBAR_GRADIENT" Category="Toolbar" Description="Background Gradient" Start="#505050" Finish="#505050"/>
     <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT" Category="Toolbar" Description="Customize Button Gradient" Start="#505050" Finish="#505050"/>
     <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT_HIGHLIGHT" Category="Toolbar" Description="Highlighted Customize Button Gradient" Start="#606060" Finish="#606060"/>
