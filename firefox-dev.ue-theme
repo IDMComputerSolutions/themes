@@ -5,15 +5,15 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:3
+-12:0:0:0:600:0:0:0:0:3:2:1:4
     </Font>
-    <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#B0B0B0"/>
+    <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
     <Color ID="ID_DOCKABLE_WINDOW_CAPTION_TEXT" Category="Dockable Window" Description="Caption Text" Value="#5C6773"/>
     <Color ID="ID_DOCKABLE_WINDOW_CAPTION_TEXT_ACTIVE" Category="Dockable Window" Description="Active Caption Text" Value="#C8CDD2"/>
-    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON" Category="Dockable Window" Description="Caption Button" Value="#707070"/>
-    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_HIGHLIGHT" Category="Dockable Window" Description="Caption Button Highlight" Value="#505050"/>
-    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_MOUSEDOWN" Category="Dockable Window" Description="Caption Button Mouse Down" Value="#505050"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON" Category="Dockable Window" Description="Caption Button" Value="#AF86FA"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_HIGHLIGHT" Category="Dockable Window" Description="Caption Button Highlight" Value="#14171A"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_MOUSEDOWN" Category="Dockable Window" Description="Caption Button Mouse Down" Value="#14171A"/>
     <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER" Category="Dockable Window" Description="Caption Border" Value="#343C45"/>
     <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER_SHADOW" Category="Dockable Window" Description="Caption Border Shadow" Value="#14171A"/>
     <Color ID="ID_DOCKABLE_WINDOW_BORDER" Category="Dockable Window" Description="Border" Value="#FF0000"/>
@@ -48,10 +48,10 @@ Custom
     <Color ID="ID_TOOLBAR_ITEM_BORDER_HIGHLIGHT" Category="Toolbar" Description="Highlighted item Border" Value="#FF0000"/>
     <Color ID="ID_TOOLBAR_ITEM_CHECKED_BACKGROUND" Category="Toolbar" Description="Checked Item Background" Value="#FF0000"/>
     <Color ID="ID_TOOLBAR_ITEM_CHECKED_BORDER" Category="Toolbar" Description="Checked Item Border" Value="#FF0000"/>
-    <Color ID="ID_TOOLBAR_ITEM_CHECKED_BACKGROUND_HIGHLIGHT" Category="Toolbar" Description="Clicked Item Background" Value="#606060"/>
+    <Color ID="ID_TOOLBAR_ITEM_CHECKED_BACKGROUND_HIGHLIGHT" Category="Toolbar" Description="Clicked Item Background" Value="#14171A"/>
     <Color ID="ID_TOOLBAR_ITEM_CHECKED_BORDER_HIGHLIGHT" Category="Toolbar" Description="Highlighted Checked Item Border" Value="#FF0000"/>
     <Color ID="ID_TOOLBAR_CUSTOMIZE_BUTTON" Category="Toolbar" Description="Customize Button" Value="#FF0000"/>
-    <Color ID="ID_TOOLBAR_GRIPPER" Category="Toolbar" Description="Gripper" Value="#505050"/>
+    <Color ID="ID_TOOLBAR_GRIPPER" Category="Toolbar" Description="Gripper" Value="#AF86FA"/>
     <Color ID="ID_TOOLBAR_GRIPPER_SHADOW" Category="Toolbar" Description="Gripper Shadow" Value="#181D20"/>
     <Color ID="ID_TOOLBAR_BORDER" Category="Toolbar" Description="Border" Value="#FF0000"/>
     <Color ID="ID_TOOLBAR_BORDER_SHADOW" Category="Toolbar" Description="Border Shadow" Value="#181D20"/>
@@ -87,17 +87,17 @@ Custom
     <Color ID="ID_GROUPTABS_BASELINE" Category="Group Tabs Control" Description="Tabs Base Line" Value="#FF0000"/>
     <Color ID="ID_GROUPTABS_BACKGROUND" Category="Group Tabs Control" Description="Control Background" Value="#181D20"/>
     <Color ID="ID_GROUPTABS_BORDER" Category="Group Tabs Control" Description="Control Border" Value="#181D20"/>
-    <Color ID="ID_BUTTON_TEXT_CHECKED" Category="Button" Description="Checked Text" Value="#A0A0A0"/>
+    <Color ID="ID_BUTTON_TEXT_CHECKED" Category="Button" Description="Checked Text" Value="#A9BACB"/>
     <Color ID="ID_BUTTON_TEXT" Category="Button" Description="Text" Value="#5C6773"/>
-    <Color ID="ID_BUTTON_TEXT_HIGHLIGHT" Category="Button" Description="Highlighted Text" Value="#A0A0A0"/>
-    <Color ID="ID_BUTTON_TEXT_DISABLED" Category="Button" Description="Disabled Text" Value="#808080"/>
+    <Color ID="ID_BUTTON_TEXT_HIGHLIGHT" Category="Button" Description="Highlighted Text" Value="#C8CDD2"/>
+    <Color ID="ID_BUTTON_TEXT_DISABLED" Category="Button" Description="Disabled Text" Value="#37414A"/>
     <Color ID="ID_BUTTON_TEXT_DISABLED_SHADOW" Category="Button" Description="Disabled Text Shadow" Value="#181D20"/>
-    <Color ID="ID_BUTTON_BORDER" Category="Button" Description="Top/Left Border" Value="#606060"/>
+    <Color ID="ID_BUTTON_BORDER" Category="Button" Description="Top/Left Border" Value="#252C33"/>
     <Color ID="ID_BUTTON_BORDER_CLICKED" Category="Button" Description="Clicked Top/Left Border" Value="#202020"/>
-    <Color ID="ID_BUTTON_BORDER_SHADOW" Category="Button" Description="Bottom/Right Border" Value="#606060"/>
-    <Color ID="ID_BUTTON_BORDER_CLICKED_SHADOW" Category="Button" Description="Clicked Bottom/Right Border" Value="#606060"/>
+    <Color ID="ID_BUTTON_BORDER_SHADOW" Category="Button" Description="Bottom/Right Border" Value="#343C45"/>
+    <Color ID="ID_BUTTON_BORDER_CLICKED_SHADOW" Category="Button" Description="Clicked Bottom/Right Border" Value="#343C45"/>
     <Color ID="ID_AUTOHIDEBUTTON_BORDER" Category="Auto Hide Button" Description="Auto-Hide Button Border" Value="#181D20"/>
-    <Color ID="ID_AUTOHIDEBUTTON_TEXT" Category="Auto Hide Button" Description="Auto-Hide Button Text" Value="#808080"/>
+    <Color ID="ID_AUTOHIDEBUTTON_TEXT" Category="Auto Hide Button" Description="Auto-Hide Button Text" Value="#37414A"/>
     <Color ID="ID_TEXTCONTROL_BACKGROUND" Category="Text Control" Description="Text Control Background" Value="#37414A"/>
     <Color ID="ID_TEXTCONTROL_TEXT" Category="Text Control" Description="Text Control Text" Value="#5C6773"/>
     <Color ID="ID_DIALOG_BACKGROUND2" Category="Dialog" Description="Background" Value="#14171A"/>
@@ -111,25 +111,25 @@ Custom
     <Color ID="ID_HEADER_BORDER_CLICKED" Category="List Control" Description="Header Clicked Top/Left Border" Value="#14171A"/>
     <Color ID="ID_HEADER_BORDER_SHADOW" Category="List Control" Description="Header Bottom/Right Border" Value="#14171A"/>
     <Color ID="ID_HEADER_BORDER_CLICKED_SHADOW" Category="List Control" Description="Header Clicked Bottom/Right Border" Value="#14171A"/>
-    <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Caption Background" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Caption Background" Start="#252C33" Finish="#252C33"/>
     <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Active Caption Background" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Floating Caption Background" Start="#181D20" Finish="#181D20"/>
     <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Floating Caption Background Active" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_MENU_BAR_BACKGROUND_GRADIENT" Category="Menu" Description="Menu Bar Background Gradient" Start="#252C33" Finish="#252C33"/>
-    <Gradient ID="ID_TOOLBAR_GRADIENT" Category="Toolbar" Description="Background Gradient" Start="#505050" Finish="#505050"/>
-    <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT" Category="Toolbar" Description="Customize Button Gradient" Start="#505050" Finish="#505050"/>
-    <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT_HIGHLIGHT" Category="Toolbar" Description="Highlighted Customize Button Gradient" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_TOOLBAR_GRADIENT" Category="Toolbar" Description="Background Gradient" Start="#252C33" Finish="#37414A"/>
+    <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT" Category="Toolbar" Description="Customize Button Gradient" Start="#252C33" Finish="#37414A"/>
+    <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT_HIGHLIGHT" Category="Toolbar" Description="Highlighted Customize Button Gradient" Start="#252C33" Finish="#37414A"/>
     <Gradient ID="ID_FILETAB_BACKGROUND" Category="File Tab" Description="Tab Background" Start="#252C33" Finish="#252C33"/>
     <Gradient ID="ID_FILETAB_BACKGROUND_ACTIVE" Category="File Tab" Description="Tab Background Active" Start="#004D71" Finish="#0080FF"/>
-    <Gradient ID="ID_OUTPUTTAB_BACKGROUND" Category="Output Tab" Description="Tab Background" Start="#505050" Finish="#505050"/>
+    <Gradient ID="ID_OUTPUTTAB_BACKGROUND" Category="Output Tab" Description="Tab Background" Start="#252C33" Finish="#252C33"/>
     <Gradient ID="ID_OUTPUTTAB_BACKGROUND_ACTIVE" Category="Output Tab" Description="Tab Background Active" Start="#004D71" Finish="#0088CA"/>
-    <Gradient ID="ID_GROUPTAB_BACKGROUND" Category="Group Tab" Description="Tab Background" Start="#505050" Finish="#505050"/>
+    <Gradient ID="ID_GROUPTAB_BACKGROUND" Category="Group Tab" Description="Tab Background" Start="#252C33" Finish="#252C33"/>
     <Gradient ID="ID_GROUPTAB_BACKGROUND_ACTIVE" Category="Group Tab" Description="Tab Background Active" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_STATUSBAR_GRADIENT" Category="Statusbar" Description="Statusbar Background Gradient" Start="#252C33" Finish="#14171A"/>
     <Gradient ID="ID_APPLICATION_PANE_DIVIDER" Category="Application" Description="Pane Divider" Start="#14171A" Finish="#14171A"/>
-    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT" Category="Button" Description="Background Gradient" Start="#606060" Finish="#606060"/>
-    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT_HIGHLIGHT" Category="Button" Description="Highlighted Background Gradient" Start="#181D20" Finish="#606060"/>
-    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT_CHECKED" Category="Button" Description="Checked Background Gradient" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT" Category="Button" Description="Background Gradient" Start="#252C33" Finish="#252C33"/>
+    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT_HIGHLIGHT" Category="Button" Description="Highlighted Background Gradient" Start="#14171A" Finish="#14171A"/>
+    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT_CHECKED" Category="Button" Description="Checked Background Gradient" Start="#252C33" Finish="#252C33"/>
     <Gradient ID="ID_AUTOHIDEBUTTON_BACKGROUND_GRADIENT" Category="Auto Hide Button" Description="Auto-Hide Button Background Gradient" Start="#181D20" Finish="#181D20"/>
     <Gradient ID="ID_HEADER_BACKGROUND_GRADIENT" Category="List Control" Description="Header Background Gradient" Start="#14171A" Finish="#14171A"/>
     <Gradient ID="ID_HEADER_BACKGROUND_GRADIENT_HIGHLIGHT" Category="List Control" Description="Highlighted Header Background Gradient" Start="#14171A" Finish="#14171A"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:3
+-13:0:0:0:400:0:0:0:255:0:0:0:4
     </Font>
     <Font Category="Hex/Column" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:3
+-13:0:0:0:400:0:0:0:255:0:0:0:4
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
@@ -427,6 +427,10 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#008000" Background="#FFFFFF" Auto="true"/>
@@ -983,6 +987,10 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 12" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 12">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 14" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
