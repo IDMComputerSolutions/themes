@@ -162,6 +162,18 @@ Custom
     <Color Category="LCI Unsaved" Value="#840000"/>
   </Editor>
   <Languages>
+    <Language Name="Apache Web Server">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Bold
+      </FontStyle>
+    </Language>
+    <Language Name="AutoHotkey">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Bold
+      </FontStyle>
+    </Language>
     <Language Name="Bash">
       <ColorPair Category="Text" Foreground="#000000" Background="#FFFFFF" Auto="true"/>
       <ColorPair Category="Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
@@ -182,7 +194,7 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
@@ -268,36 +280,36 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 3" Foreground="#AF86FA" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 4">
-Bold
-      </FontStyle>
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
     </Language>
     <Language Name="C/C++">
       <ColorPair Category="Color Group 2" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 3" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 4">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 5" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
 Bold
       </FontStyle>
     </Language>
@@ -316,11 +328,11 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#A1863F" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 3" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
@@ -328,11 +340,11 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 4">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 5" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
@@ -340,7 +352,7 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 7" Foreground="#AF86FA" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 8" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 8">
@@ -348,7 +360,7 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 9" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 9">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 10" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 10">
@@ -360,10 +372,6 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 12" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 12">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 14" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
@@ -419,10 +427,6 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 3" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 3">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#008000" Background="#FFFFFF" Auto="true"/>
@@ -514,114 +518,132 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#247599" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#D25252" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 3" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 4">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 5" Foreground="#AF86FA" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 6" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 7" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 8" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 8">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 9" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 9">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 10" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 10">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 11" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 11">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 12" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 12">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 13">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 14" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 14">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 15" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 15">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 16" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 16">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 17" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 17">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 18" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 18">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 19" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 19">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 20" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 20">
-Bold
+Normal
       </FontStyle>
     </Language>
     <Language Name="HTML">
       <ColorPair Category="Color Group 1" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 3" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Bold
+      </FontStyle>
+    </Language>
+    <Language Name="IDM Wordfiles">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Bold
+      </FontStyle>
+    </Language>
+    <Language Name="IDM Wordfiles (OLD)">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Bold
+      </FontStyle>
+    </Language>
+    <Language Name="INI Files">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
 Bold
       </FontStyle>
     </Language>
     <Language Name="Java">
       <ColorPair Category="Color Group 1" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 3" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
-Bold
-      </FontStyle>
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
     </Language>
@@ -638,13 +660,9 @@ Italic
       <FontStyle Category="Color Group 1">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 4" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 4">
-Normal
-      </FontStyle>
       <ColorPair Category="Color Group 5" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 6" Foreground="#247599" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
@@ -653,6 +671,10 @@ Normal
       <ColorPair Category="Color Group 7" Foreground="#247599" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
 Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Bold
       </FontStyle>
     </Language>
     <Language Name="MS-DOS">
@@ -675,23 +697,15 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
-      </FontStyle>
-      <ColorPair Category="Color Group 2" Foreground="#D25252" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 2">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 3" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 4" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 4">
-Normal
-      </FontStyle>
       <ColorPair Category="Color Group 5" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
@@ -754,10 +768,10 @@ Normal
 Normal
       </FontStyle>
     </Language>
-    <Language Name="MySQL 5.1">
+    <Language Name="NSIS Script v2.43">
       <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 13">
-Normal
+Bold
       </FontStyle>
     </Language>
     <Language Name="PHP">
@@ -771,76 +785,56 @@ Italic
       </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#E89326" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 2" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 2">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 4">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 5" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 6" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 7" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 8" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 8">
-Bold
-      </FontStyle>
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
     </Language>
     <Language Name="Perl">
       <ColorPair Category="Color Group 1" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 4">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 5" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 6" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 7" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
-Bold
+Normal
       </FontStyle>
       <ColorPair Category="Color Group 8" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 8">
-Bold
-      </FontStyle>
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
-Normal
-      </FontStyle>
-    </Language>
-    <Language Name="Python">
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
-Normal
-      </FontStyle>
-    </Language>
-    <Language Name="Ruby">
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
     </Language>
@@ -943,18 +937,6 @@ Normal
 Normal
       </FontStyle>
     </Language>
-    <Language Name="VBScript ASP">
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
-Normal
-      </FontStyle>
-    </Language>
-    <Language Name="Visual Basic">
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
-Normal
-      </FontStyle>
-    </Language>
     <Language Name="XML">
       <ColorPair Category="Comments" Foreground="#008096" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Comments">
@@ -964,9 +946,11 @@ Italic
       <FontStyle Category="Alternate Block Comments">
 Italic
       </FontStyle>
+    </Language>
+    <Language Name="YAML">
       <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 13">
-Normal
+Bold
       </FontStyle>
     </Language>
     <Language Name="to-do list">
@@ -1033,10 +1017,6 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 12" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 12">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 14" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
