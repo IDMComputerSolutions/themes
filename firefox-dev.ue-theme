@@ -500,11 +500,11 @@ Normal
     </Language>
     <Language Name="Default">
       <ColorPair Category="Text" Foreground="#A9BACB" Background="#FFFFFF" Auto="true"/>
-      <ColorPair Category="Comments" Foreground="#667066" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Comments" Foreground="#008096" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Comments">
 Italic
       </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#667066" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Alternate Block Comments" Foreground="#C7DD0C" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Alternate Block Comments">
 Italic
       </FontStyle>
@@ -648,14 +648,6 @@ Normal
       </FontStyle>
     </Language>
     <Language Name="JavaScript">
-      <ColorPair Category="Comments" Foreground="#008096" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Italic
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#C7DD0C" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Italic
-      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
@@ -679,14 +671,6 @@ Bold
     </Language>
     <Language Name="MS-DOS">
       <ColorPair Category="Text" Foreground="#C8CDD2" Background="#FFFFFF" Auto="true"/>
-      <ColorPair Category="Comments" Foreground="#008096" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Italic
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#C7DD0C" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Italic
-      </FontStyle>
       <ColorPair Category="Strings" Foreground="#808080" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Strings">
 Normal
@@ -775,14 +759,6 @@ Bold
       </FontStyle>
     </Language>
     <Language Name="PHP">
-      <ColorPair Category="Comments" Foreground="#008096" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Italic
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#C7DD0C" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Italic
-      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#E89326" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
@@ -935,16 +911,6 @@ Normal
       <ColorPair Category="Color Group 20" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 20">
 Normal
-      </FontStyle>
-    </Language>
-    <Language Name="XML">
-      <ColorPair Category="Comments" Foreground="#008096" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Italic
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#C7DD0C" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Italic
       </FontStyle>
     </Language>
     <Language Name="YAML">
