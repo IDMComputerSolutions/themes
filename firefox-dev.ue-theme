@@ -274,10 +274,6 @@ Normal
       </FontStyle>
     </Language>
     <Language Name="C#">
-      <ColorPair Category="Numbers" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Numbers">
-Normal
-      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
@@ -314,18 +310,6 @@ Bold
       </FontStyle>
     </Language>
     <Language Name="CSS">
-      <ColorPair Category="Comments" Foreground="#008096" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#C7DD0C" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Strings" Foreground="#5C6773" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Strings">
-Normal
-      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
@@ -372,105 +356,6 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 12" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 12">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 14" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 14">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 15" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 15">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 16" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 16">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 17" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 17">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 18" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 18">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 19" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 19">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 20" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 20">
-Normal
-      </FontStyle>
-    </Language>
-    <Language Name="CSS 1.0-2.1">
-      <ColorPair Category="Text" Foreground="#000000" Background="#FFFFFF" Auto="true"/>
-      <ColorPair Category="Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Strings" Foreground="#808080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Strings">
-Normal
-      </FontStyle>
-      <ColorPair Category="Numbers" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Numbers">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 1" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 1">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 2" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 2">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 3" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 3">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 4" Foreground="#008000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 4">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 5" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 5">
-Bold
-      </FontStyle>
-      <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 6">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 7" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 7">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 8" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 8">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 9" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 9">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 10" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 10">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 11" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 11">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 12" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 12">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 13" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 13">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 14" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
@@ -674,15 +559,6 @@ Bold
       </FontStyle>
     </Language>
     <Language Name="MS-DOS">
-      <ColorPair Category="Text" Foreground="#C8CDD2" Background="#FFFFFF" Auto="true"/>
-      <ColorPair Category="Strings" Foreground="#808080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Strings">
-Normal
-      </FontStyle>
-      <ColorPair Category="Numbers" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Numbers">
-Normal
-      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
@@ -819,23 +695,6 @@ Normal
       </FontStyle>
     </Language>
     <Language Name="UE Themes">
-      <ColorPair Category="Text" Foreground="#000000" Background="#FFFFFF" Auto="true"/>
-      <ColorPair Category="Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Strings" Foreground="#808080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Strings">
-Normal
-      </FontStyle>
-      <ColorPair Category="Numbers" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Numbers">
-Normal
-      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#00FF00" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
@@ -924,23 +783,6 @@ Bold
       </FontStyle>
     </Language>
     <Language Name="to-do list">
-      <ColorPair Category="Text" Foreground="#FFFFFF" Background="#FFFFFF" Auto="true"/>
-      <ColorPair Category="Comments" Foreground="#AE81FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#AE81FF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Strings" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Strings">
-Normal
-      </FontStyle>
-      <ColorPair Category="Numbers" Foreground="#FFFFFF" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Numbers">
-Normal
-      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
