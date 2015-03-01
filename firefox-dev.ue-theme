@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:20
+-12:0:0:0:600:0:0:0:0:3:2:1:3
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#B0B0B0"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#404040"/>
@@ -60,7 +60,7 @@ Custom
     <Color ID="ID_FILETAB_BORDER_ACCENT" Category="File Tab" Description="Tab Border Accent" Value="#343C45"/>
     <Color ID="ID_FILETAB_TEXT" Category="File Tab" Description="Tab Text" Value="#5C6773"/>
     <Color ID="ID_FILETAB_BORDER_ACTIVE" Category="File Tab" Description="Tab Border Active" Value="#004080"/>
-    <Color ID="ID_FILETAB_BORDER_TOP_ACTIVE" Category="File Tab" Description="Tab Top Border Active" Value="#AF86FA"/>
+    <Color ID="ID_FILETAB_BORDER_TOP_ACTIVE" Category="File Tab" Description="Tab Top Border Active" Value="#CC00CC"/>
     <Color ID="ID_FILETAB_TEXT_ACTIVE" Category="File Tab" Description="Tab Text Active" Value="#C8CDD2"/>
     <Color ID="ID_OUTPUTTAB_BORDER" Category="Output Tab" Description="Tab Border" Value="#595959"/>
     <Color ID="ID_OUTPUTTAB_TEXT" Category="Output Tab" Description="Tab Text" Value="#5C6773"/>
@@ -112,19 +112,19 @@ Custom
     <Color ID="ID_HEADER_BORDER_SHADOW" Category="List Control" Description="Header Bottom/Right Border" Value="#14171A"/>
     <Color ID="ID_HEADER_BORDER_CLICKED_SHADOW" Category="List Control" Description="Header Clicked Bottom/Right Border" Value="#14171A"/>
     <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Caption Background" Start="#303030" Finish="#303030"/>
-    <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Active Caption Background" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Active Caption Background" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Floating Caption Background" Start="#303030" Finish="#303030"/>
-    <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Floating Caption Background Active" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Floating Caption Background Active" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_MENU_BAR_BACKGROUND_GRADIENT" Category="Menu" Description="Menu Bar Background Gradient" Start="#404040" Finish="#404040"/>
     <Gradient ID="ID_TOOLBAR_GRADIENT" Category="Toolbar" Description="Background Gradient" Start="#505050" Finish="#505050"/>
     <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT" Category="Toolbar" Description="Customize Button Gradient" Start="#505050" Finish="#505050"/>
     <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT_HIGHLIGHT" Category="Toolbar" Description="Highlighted Customize Button Gradient" Start="#606060" Finish="#606060"/>
     <Gradient ID="ID_FILETAB_BACKGROUND" Category="File Tab" Description="Tab Background" Start="#252C33" Finish="#252C33"/>
-    <Gradient ID="ID_FILETAB_BACKGROUND_ACTIVE" Category="File Tab" Description="Tab Background Active" Start="#37414A" Finish="#37414A"/>
+    <Gradient ID="ID_FILETAB_BACKGROUND_ACTIVE" Category="File Tab" Description="Tab Background Active" Start="#004D71" Finish="#0080FF"/>
     <Gradient ID="ID_OUTPUTTAB_BACKGROUND" Category="Output Tab" Description="Tab Background" Start="#505050" Finish="#505050"/>
-    <Gradient ID="ID_OUTPUTTAB_BACKGROUND_ACTIVE" Category="Output Tab" Description="Tab Background Active" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_OUTPUTTAB_BACKGROUND_ACTIVE" Category="Output Tab" Description="Tab Background Active" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_GROUPTAB_BACKGROUND" Category="Group Tab" Description="Tab Background" Start="#505050" Finish="#505050"/>
-    <Gradient ID="ID_GROUPTAB_BACKGROUND_ACTIVE" Category="Group Tab" Description="Tab Background Active" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_GROUPTAB_BACKGROUND_ACTIVE" Category="Group Tab" Description="Tab Background Active" Start="#004D71" Finish="#0088CA"/>
     <Gradient ID="ID_STATUSBAR_GRADIENT" Category="Statusbar" Description="Statusbar Background Gradient" Start="#252C33" Finish="#14171A"/>
     <Gradient ID="ID_APPLICATION_PANE_DIVIDER" Category="Application" Description="Pane Divider" Start="#14171A" Finish="#14171A"/>
     <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT" Category="Button" Description="Background Gradient" Start="#606060" Finish="#606060"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:20
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
     <Font Category="Hex/Column" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:20
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
