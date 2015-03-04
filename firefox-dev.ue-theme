@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:13
+-12:0:0:0:600:0:0:0:0:3:2:1:3
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
@@ -136,11 +136,11 @@ Custom
     <Gradient ID="ID_HEADER_BACKGROUND_GRADIENT_CLICKED" Category="List Control" Description="Clicked Header Background Gradient" Start="#14171A" Finish="#14171A"/>
   </Window>
   <Editor>
-    <Font Category="Normal" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:13
+    <Font Category="Normal" Face="Source Code Pro Semibold">
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
-    <Font Category="Hex/Column" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:13
+    <Font Category="Hex/Column" Face="Source Code Pro Semibold">
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
