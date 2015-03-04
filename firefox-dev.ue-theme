@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:4
+-12:0:0:0:600:0:0:0:0:3:2:1:13
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:4
+-13:0:0:0:400:0:0:0:255:0:0:0:13
     </Font>
     <Font Category="Hex/Column" Face="Courier New">
--13:0:0:0:400:0:0:0:255:0:0:0:4
+-13:0:0:0:400:0:0:0:255:0:0:0:13
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
@@ -175,7 +175,6 @@ Bold
       </FontStyle>
     </Language>
     <Language Name="Bash">
-      <ColorPair Category="Text" Foreground="#000000" Background="#FFFFFF" Auto="true"/>
       <ColorPair Category="Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Comments">
 Normal
@@ -669,6 +668,10 @@ Normal
       </FontStyle>
     </Language>
     <Language Name="Perl">
+      <ColorPair Category="Strings" Foreground="#5C6773" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Strings">
+Normal
+      </FontStyle>
       <ColorPair Category="Color Group 1" Foreground="#808BED" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 1">
 Normal
@@ -691,6 +694,10 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 8" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 8">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 9" Foreground="#FF0080" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 9">
 Normal
       </FontStyle>
     </Language>
