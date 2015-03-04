@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:3
+-12:0:0:0:600:0:0:0:0:3:2:1:6
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:3
+-13:0:0:0:400:0:0:0:255:0:0:0:6
     </Font>
     <Font Category="Hex/Column" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:3
+-13:0:0:0:400:0:0:0:255:0:0:0:6
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
@@ -706,48 +706,23 @@ Normal
       </FontStyle>
     </Language>
     <Language Name="UE Themes">
-      <ColorPair Category="Text" Foreground="#000000" Background="#FFFFFF" Auto="true"/>
-      <ColorPair Category="Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Alternate Block Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Alternate Block Comments">
-Normal
-      </FontStyle>
-      <ColorPair Category="Strings" Foreground="#808080" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Strings">
-Normal
-      </FontStyle>
-      <ColorPair Category="Numbers" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Numbers">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 1" Foreground="#00FF00" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 1">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 2" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
-      <FontStyle Category="Color Group 2">
-Normal
-      </FontStyle>
-      <ColorPair Category="Color Group 3" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 3" Foreground="#FF8040" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 4" Foreground="#008000" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 4" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 4">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 5" Foreground="#804040" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 5" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 5">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 6" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 6">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 7" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 7" Foreground="#72758D" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
 Normal
       </FontStyle>
@@ -755,15 +730,15 @@ Normal
       <FontStyle Category="Color Group 8">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 9" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 9" Foreground="#808BD9" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 9">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 10" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 10" Foreground="#247599" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 10">
 Normal
       </FontStyle>
-      <ColorPair Category="Color Group 11" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Color Group 11" Foreground="#AA0055" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 11">
 Normal
       </FontStyle>
