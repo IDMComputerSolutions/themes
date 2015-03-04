@@ -1,0 +1,707 @@
+<?xml version="1.0"?>
+<UETheme>
+  <Window>
+    <Look>
+Custom
+    </Look>
+    <Font Category="Dockable Windows" Face="Segoe UI Semibold">
+-12:0:0:0:600:0:0:0:0:3:2:1:7
+    </Font>
+    <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#B0B0B0"/>
+    <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_TEXT" Category="Dockable Window" Description="Caption Text" Value="#707070"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_TEXT_ACTIVE" Category="Dockable Window" Description="Active Caption Text" Value="#FFFFFF"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON" Category="Dockable Window" Description="Caption Button" Value="#707070"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_HIGHLIGHT" Category="Dockable Window" Description="Caption Button Highlight" Value="#505050"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BUTTON_MOUSEDOWN" Category="Dockable Window" Description="Caption Button Mouse Down" Value="#505050"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER" Category="Dockable Window" Description="Caption Border" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_CAPTION_BORDER_SHADOW" Category="Dockable Window" Description="Caption Border Shadow" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_BORDER" Category="Dockable Window" Description="Border" Value="#FF0000"/>
+    <Color ID="ID_DOCKABLE_WINDOW_BORDER_SHADOW" Category="Dockable Window" Description="Border Shadow" Value="#FF0000"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER" Category="Dockable Window" Description="Floating Border" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER_SHADOW" Category="Dockable Window" Description="Floating Border Shadow" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_OUTER_BORDER" Category="Dockable Window" Description="Floating Outer Border" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_OUTER_BORDER_SHADOW" Category="Dockable Window" Description="Floating Outer Border Shadow" Value="#404040"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_TEXT" Category="Dockable Window" Description="Floating Caption Text" Value="#707070"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_BORDER_ACTIVE" Category="Dockable Window" Description="Floating Border Active" Value="#FF0000"/>
+    <Color ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_TEXT_ACTIVE" Category="Dockable Window" Description="Floating Caption Text Active" Value="#FFFFFF"/>
+    <Color ID="ID_MENU_TEXT" Category="Menu" Description="Text" Value="#C0C0C0"/>
+    <Color ID="ID_MENU_BACKGROUND" Category="Menu" Description="Background" Value="#606060"/>
+    <Color ID="ID_MENU_TEXT_DISABLED" Category="Menu" Description="Text Disabled" Value="#808080"/>
+    <Color ID="ID_MENU_ITEM_BACKGROUND_HIGHLIGHT" Category="Menu" Description="Highlighted Item Background" Value="#808080"/>
+    <Color ID="ID_MENU_ITEM_TEXT_HIGHLIGHT" Category="Menu" Description="Highlighted Item Text" Value="#C0C0C0"/>
+    <Color ID="ID_MENU_ITEM_BORDER_HIGHLIGHT" Category="Menu" Description="Highlighted Item Border" Value="#606060"/>
+    <Color ID="ID_MENU_ITEM_CHECKED_BACKGROUND" Category="Menu" Description="Checked Item Background" Value="#606060"/>
+    <Color ID="ID_MENU_ITEM_CHECKED_BORDER" Category="Menu" Description="Checked Item Border" Value="#FF0000"/>
+    <Color ID="ID_MENU_ITEM_CHECKED_BACKGROUND_HIGHLIGHT" Category="Menu" Description="Highlighted Checked Item Background" Value="#808080"/>
+    <Color ID="ID_MENU_ITEM_CHECKED_BORDER_HIGHLIGHT" Category="Menu" Description="Highlighted Checked Item Border" Value="#808080"/>
+    <Color ID="ID_MENU_BORDER" Category="Menu" Description="Border" Value="#606060"/>
+    <Color ID="ID_MENU_BORDER_SHADOW" Category="Menu" Description="Border Shadow" Value="#606060"/>
+    <Color ID="ID_MENU_TOP_LEVEL_BACKGROUND_ACTIVE" Category="Menu" Description="Top Level Background Active" Value="#606060"/>
+    <Color ID="ID_MENU_TOP_LEVEL_TEXT" Category="Menu" Description="Top Level Text" Value="#808080"/>
+    <Color ID="ID_MENU_TOP_LEVEL_TEXT_ACTIVE" Category="Menu" Description="Top Level Text Active" Value="#A0A0A0"/>
+    <Color ID="ID_MENU_TOP_LEVEL_HIGHLIGHT_BACKGROUND" Category="Menu" Description="Highlighted Top Level Background" Value="#FF0000"/>
+    <Color ID="ID_MENU_TOP_LEVEL_TEXT_HIGHLIGHT" Category="Menu" Description="Highlighted Top Level Text" Value="#FF0000"/>
+    <Color ID="ID_MENU_SEPARATOR" Category="Menu" Description="Separator" Value="#808080"/>
+    <Color ID="ID_TOOLBAR_SEPARATOR" Category="Toolbar" Description="Separator" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_ITEM_BACKGROUND_HIGHLIGHT" Category="Toolbar" Description="Highlighted Item Background" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_ITEM_BORDER_HIGHLIGHT" Category="Toolbar" Description="Highlighted item Border" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_ITEM_CHECKED_BACKGROUND" Category="Toolbar" Description="Checked Item Background" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_ITEM_CHECKED_BORDER" Category="Toolbar" Description="Checked Item Border" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_ITEM_CHECKED_BACKGROUND_HIGHLIGHT" Category="Toolbar" Description="Clicked Item Background" Value="#606060"/>
+    <Color ID="ID_TOOLBAR_ITEM_CHECKED_BORDER_HIGHLIGHT" Category="Toolbar" Description="Highlighted Checked Item Border" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_CUSTOMIZE_BUTTON" Category="Toolbar" Description="Customize Button" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_GRIPPER" Category="Toolbar" Description="Gripper" Value="#505050"/>
+    <Color ID="ID_TOOLBAR_GRIPPER_SHADOW" Category="Toolbar" Description="Gripper Shadow" Value="#404040"/>
+    <Color ID="ID_TOOLBAR_BORDER" Category="Toolbar" Description="Border" Value="#FF0000"/>
+    <Color ID="ID_TOOLBAR_BORDER_SHADOW" Category="Toolbar" Description="Border Shadow" Value="#404040"/>
+    <Color ID="ID_TOOLBAR_COMBO_BORDER" Category="Toolbar" Description="Combobox border" Value="#404040"/>
+    <Color ID="ID_FILETAB_BORDER" Category="File Tab" Description="Tab Border" Value="#A8A8A8"/>
+    <Color ID="ID_FILETAB_BORDER_ACCENT" Category="File Tab" Description="Tab Border Accent" Value="#303030"/>
+    <Color ID="ID_FILETAB_TEXT" Category="File Tab" Description="Tab Text" Value="#808080"/>
+    <Color ID="ID_FILETAB_BORDER_ACTIVE" Category="File Tab" Description="Tab Border Active" Value="#004080"/>
+    <Color ID="ID_FILETAB_BORDER_TOP_ACTIVE" Category="File Tab" Description="Tab Top Border Active" Value="#303030"/>
+    <Color ID="ID_FILETAB_TEXT_ACTIVE" Category="File Tab" Description="Tab Text Active" Value="#707070"/>
+    <Color ID="ID_OUTPUTTAB_BORDER" Category="Output Tab" Description="Tab Border" Value="#595959"/>
+    <Color ID="ID_OUTPUTTAB_TEXT" Category="Output Tab" Description="Tab Text" Value="#909090"/>
+    <Color ID="ID_OUTPUTTAB_BORDER_ACTIVE" Category="Output Tab" Description="Tab Border Active" Value="#004080"/>
+    <Color ID="ID_OUTPUTTAB_TEXT_ACTIVE" Category="Output Tab" Description="Tab Text Active" Value="#B0B0B0"/>
+    <Color ID="ID_GROUPTAB_BORDER" Category="Group Tab" Description="Tab Border" Value="#404040"/>
+    <Color ID="ID_GROUPTAB_TEXT" Category="Group Tab" Description="Tab Text" Value="#909090"/>
+    <Color ID="ID_GROUPTAB_BORDER_ACTIVE" Category="Group Tab" Description="Tab Border Active" Value="#404040"/>
+    <Color ID="ID_GROUPTAB_TEXT_ACTIVE" Category="Group Tab" Description="Tab Text Active" Value="#B0B0B0"/>
+    <Color ID="ID_STATUSBAR_TEXT" Category="Statusbar" Description="Statusbar Text" Value="#808080"/>
+    <Color ID="ID_STATUSBAR_TEXT_DISABLED" Category="Statusbar" Description="Statusbar Text Disabled" Value="#606060"/>
+    <Color ID="ID_STATUSBAR_SEPARATOR" Category="Statusbar" Description="Statusbar Separator" Value="#606060"/>
+    <Color ID="ID_APPLICATION_BACKGROUND" Category="Application" Description="Dockable Bar Background" Value="#404040"/>
+    <Color ID="ID_FILETABS_BACKGROUND" Category="File Tabs Control" Description="Control Background" Value="#404040"/>
+    <Color ID="ID_FILETABS_BORDER" Category="File Tabs Control" Description="Control Border" Value="#404040"/>
+    <Color ID="ID_FILETABS_BORDER_SHADOW" Category="File Tabs Control" Description="Control Border Shadow" Value="#FF0000"/>
+    <Color ID="ID_FILETABS_TABAREA_BORDER" Category="File Tabs Control" Description="Tab Area Border" Value="#303030"/>
+    <Color ID="ID_FILETABS_TABAREA_OUTER_BORDER" Category="File Tabs Control" Description="Tab Area Outer Border" Value="#303030"/>
+    <Color ID="ID_FILETABS_TABAREA_INNER_BORDER" Category="File Tabs Control" Description="Tab Area Inner Border" Value="#303030"/>
+    <Color ID="ID_FILETABS_BASELINE" Category="File Tabs Control" Description="Tabs Base Line" Value="#303030"/>
+    <Color ID="ID_OUTPUTTABS_BACKGROUND" Category="Output Tabs Control" Description="Control Background" Value="#404040"/>
+    <Color ID="ID_OUTPUTTABS_BORDER" Category="Output Tabs Control" Description="Control Border" Value="#404040"/>
+    <Color ID="ID_OUTPUTTABS_BASELINE" Category="Output Tabs Control" Description="Tabs Base Line" Value="#505050"/>
+    <Color ID="ID_GROUPTABS_BASELINE" Category="Group Tabs Control" Description="Tabs Base Line" Value="#FF0000"/>
+    <Color ID="ID_GROUPTABS_BACKGROUND" Category="Group Tabs Control" Description="Control Background" Value="#404040"/>
+    <Color ID="ID_GROUPTABS_BORDER" Category="Group Tabs Control" Description="Control Border" Value="#404040"/>
+    <Color ID="ID_BUTTON_TEXT_CHECKED" Category="Button" Description="Checked Text" Value="#A0A0A0"/>
+    <Color ID="ID_BUTTON_TEXT" Category="Button" Description="Text" Value="#A0A0A0"/>
+    <Color ID="ID_BUTTON_TEXT_HIGHLIGHT" Category="Button" Description="Highlighted Text" Value="#A0A0A0"/>
+    <Color ID="ID_BUTTON_TEXT_DISABLED" Category="Button" Description="Disabled Text" Value="#808080"/>
+    <Color ID="ID_BUTTON_TEXT_DISABLED_SHADOW" Category="Button" Description="Disabled Text Shadow" Value="#404040"/>
+    <Color ID="ID_BUTTON_BORDER" Category="Button" Description="Top/Left Border" Value="#606060"/>
+    <Color ID="ID_BUTTON_BORDER_CLICKED" Category="Button" Description="Clicked Top/Left Border" Value="#202020"/>
+    <Color ID="ID_BUTTON_BORDER_SHADOW" Category="Button" Description="Bottom/Right Border" Value="#606060"/>
+    <Color ID="ID_BUTTON_BORDER_CLICKED_SHADOW" Category="Button" Description="Clicked Bottom/Right Border" Value="#606060"/>
+    <Color ID="ID_AUTOHIDEBUTTON_BORDER" Category="Auto Hide Button" Description="Auto-Hide Button Border" Value="#404040"/>
+    <Color ID="ID_AUTOHIDEBUTTON_TEXT" Category="Auto Hide Button" Description="Auto-Hide Button Text" Value="#808080"/>
+    <Color ID="ID_TEXTCONTROL_BACKGROUND" Category="Text Control" Description="Text Control Background" Value="#808080"/>
+    <Color ID="ID_TEXTCONTROL_TEXT" Category="Text Control" Description="Text Control Text" Value="#C0C0C0"/>
+    <Color ID="ID_DIALOG_BACKGROUND" Category="Dialog" Description="Background" Value="#595959"/>
+    <Color ID="ID_DIALOG_TEXT" Category="Dialog" Description="Text" Value="#FFFFFF"/>
+    <Color ID="ID_STATICCONTROL_BACKGROUND" Category="Static Control" Description="Static Control Background" Value="#595959"/>
+    <Color ID="ID_STATICCONTROL_TEXT" Category="Static Control" Description="Static Control Text" Value="#FFFFFF"/>
+    <Color ID="ID_HEADER_TEXT" Category="List Control" Description="Header Text" Value="#707070"/>
+    <Color ID="ID_HEADER_TEXT_HIGHLIGHT" Category="List Control" Description="Header Highlighted Text" Value="#707070"/>
+    <Color ID="ID_HEADER_TEXT_CLICKED" Category="List Control" Description="Header Clicked Text" Value="#B0B0B0"/>
+    <Color ID="ID_HEADER_BORDER" Category="List Control" Description="Header Top/Left Border" Value="#303030"/>
+    <Color ID="ID_HEADER_BORDER_CLICKED" Category="List Control" Description="Header Clicked Top/Left Border" Value="#303030"/>
+    <Color ID="ID_HEADER_BORDER_SHADOW" Category="List Control" Description="Header Bottom/Right Border" Value="#303030"/>
+    <Color ID="ID_HEADER_BORDER_CLICKED_SHADOW" Category="List Control" Description="Header Clicked Bottom/Right Border" Value="#303030"/>
+    <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Caption Background" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_DOCKABLE_WINDOW_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Active Caption Background" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT" Category="Dockable Window" Description="Floating Caption Background" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_DOCKABLE_WINDOW_FLOATING_CAPTION_BACKGROUND_GRADIENT_ACTIVE" Category="Dockable Window" Description="Floating Caption Background Active" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_MENU_BAR_BACKGROUND_GRADIENT" Category="Menu" Description="Menu Bar Background Gradient" Start="#404040" Finish="#404040"/>
+    <Gradient ID="ID_TOOLBAR_GRADIENT" Category="Toolbar" Description="Background Gradient" Start="#505050" Finish="#505050"/>
+    <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT" Category="Toolbar" Description="Customize Button Gradient" Start="#505050" Finish="#505050"/>
+    <Gradient ID="ID_TOOLBAR_CUSTOMIZE_BUTTON_GRADIENT_HIGHLIGHT" Category="Toolbar" Description="Highlighted Customize Button Gradient" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_FILETAB_BACKGROUND" Category="File Tab" Description="Tab Background" Start="#404040" Finish="#404040"/>
+    <Gradient ID="ID_FILETAB_BACKGROUND_ACTIVE" Category="File Tab" Description="Tab Background Active" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_OUTPUTTAB_BACKGROUND" Category="Output Tab" Description="Tab Background" Start="#505050" Finish="#505050"/>
+    <Gradient ID="ID_OUTPUTTAB_BACKGROUND_ACTIVE" Category="Output Tab" Description="Tab Background Active" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_GROUPTAB_BACKGROUND" Category="Group Tab" Description="Tab Background" Start="#505050" Finish="#505050"/>
+    <Gradient ID="ID_GROUPTAB_BACKGROUND_ACTIVE" Category="Group Tab" Description="Tab Background Active" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_STATUSBAR_GRADIENT" Category="Statusbar" Description="Statusbar Background Gradient" Start="#404040" Finish="#404040"/>
+    <Gradient ID="ID_APPLICATION_PANE_DIVIDER" Category="Application" Description="Pane Divider" Start="#303030" Finish="#404040"/>
+    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT" Category="Button" Description="Background Gradient" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT_HIGHLIGHT" Category="Button" Description="Highlighted Background Gradient" Start="#404040" Finish="#606060"/>
+    <Gradient ID="ID_BUTTON_BACKGROUND_GRADIENT_CHECKED" Category="Button" Description="Checked Background Gradient" Start="#606060" Finish="#606060"/>
+    <Gradient ID="ID_AUTOHIDEBUTTON_BACKGROUND_GRADIENT" Category="Auto Hide Button" Description="Auto-Hide Button Background Gradient" Start="#404040" Finish="#404040"/>
+    <Gradient ID="ID_HEADER_BACKGROUND_GRADIENT" Category="List Control" Description="Header Background Gradient" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_HEADER_BACKGROUND_GRADIENT_HIGHLIGHT" Category="List Control" Description="Highlighted Header Background Gradient" Start="#303030" Finish="#303030"/>
+    <Gradient ID="ID_HEADER_BACKGROUND_GRADIENT_CLICKED" Category="List Control" Description="Clicked Header Background Gradient" Start="#303030" Finish="#303030"/>
+  </Window>
+  <Editor>
+    <Font Category="Normal" Face="Courier New">
+-13:0:0:0:400:0:0:0:255:0:0:0:7
+    </Font>
+    <Font Category="Hex/Column" Face="Courier New">
+-13:0:0:0:400:0:0:0:255:0:0:0:7
+    </Font>
+    <Boolean Category="Active Line" Value="true"/>
+    <Boolean Category="Active Column" Value="false"/>
+    <ColorPair Category="Text" Foreground="#DCDCD4" Background="#303030"/>
+    <ColorPair Category="Selected Text" Foreground="#FFFFFF" Background="#0080FF"/>
+    <ColorPair Category="Active Line" Foreground="#FFFFFF" Background="#004080"/>
+    <ColorPair Category="Active Column" Foreground="#FFFFFF" Background="#070707"/>
+    <ColorPair Category="Highlight All" Foreground="#141414" Background="#BCF349"/>
+    <ColorPair Category="HTML/XML Tags" Foreground="#FFFFFF" Background="#285375"/>
+    <ColorPair Category="Auto Templates" Foreground="#002B4A" Background="#0560A3"/>
+    <ColorPair Category="Folding Controls" Foreground="#414141" Background="#313131"/>
+    <ColorPair Category="Brace Highlight" Foreground="#E8E8E5" Background="#4B4B4B"/>
+    <ColorPair Category="Line Numbers and Ruler" Foreground="#6A6A6A" Background="#303030"/>
+    <Color Category="Spaces, Tabs, Line Terminators" Value="#595959"/>
+    <Color Category="Bookmarks" Value="#FFFFFF"/>
+    <Color Category="Column Markers" Value="#414141"/>
+    <Color Category="Read-Only Background" Value="#28171B"/>
+    <Color Category="LCI Saved" Value="#6A8826"/>
+    <Color Category="LCI Unsaved" Value="#840000"/>
+  </Editor>
+  <Languages>
+    <Language Name="C#">
+      <ColorPair Category="Numbers" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Numbers">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 1" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#AF86FA" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="C/C++">
+      <ColorPair Category="Color Group 2" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Bold
+      </FontStyle>
+    </Language>
+    <Language Name="CSS">
+      <ColorPair Category="Numbers" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Numbers">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 1" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#AF86FA" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 9" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 9">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 10" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 10">
+Italic
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="Default">
+      <ColorPair Category="Text" Foreground="#DCDCD4" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Comments" Foreground="#667066" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Comments">
+Italic
+      </FontStyle>
+      <ColorPair Category="Alternate Block Comments" Foreground="#667066" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Alternate Block Comments">
+Italic
+      </FontStyle>
+      <ColorPair Category="Strings" Foreground="#FBD655" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Strings">
+Italic
+      </FontStyle>
+      <ColorPair Category="Numbers" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Numbers">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 1" Foreground="#5C97C7" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#AF86FA" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 6" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 6">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 8" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 8">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 9" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 9">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 10" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 10">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 11" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 11">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 12" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 12">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 14" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 14">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 15" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 15">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 16" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 16">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 17" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 17">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 18" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 18">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 19" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 19">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 20" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 20">
+Bold
+      </FontStyle>
+    </Language>
+    <Language Name="HTML">
+      <ColorPair Category="Color Group 1" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Bold
+      </FontStyle>
+    </Language>
+    <Language Name="Java">
+      <ColorPair Category="Color Group 1" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#E89330" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="JavaScript">
+      <ColorPair Category="Color Group 1" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#E85230" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 6" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 6">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="MySQL 5.1">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="PHP">
+      <ColorPair Category="Color Group 1" Foreground="#E89326" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 6" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 6">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#E73925" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="Perl">
+      <ColorPair Category="Color Group 1" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#F0BC7D" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 6" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 6">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#CE1E5B" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 8" Foreground="#9BC736" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 8">
+Bold
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="Python">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="Ruby">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="UE Themes">
+      <ColorPair Category="Text" Foreground="#000000" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Comments">
+Normal
+      </FontStyle>
+      <ColorPair Category="Alternate Block Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Alternate Block Comments">
+Normal
+      </FontStyle>
+      <ColorPair Category="Strings" Foreground="#808080" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Strings">
+Normal
+      </FontStyle>
+      <ColorPair Category="Numbers" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Numbers">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 1" Foreground="#00FF00" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#008000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#804040" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 6">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 8" Foreground="#0080FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 8">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 9" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 9">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 10" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 10">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 11" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 11">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 12" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 12">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 14" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 14">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 15" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 15">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 16" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 16">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 17" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 17">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 18" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 18">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 19" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 19">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 20" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 20">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="VBScript ASP">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="Visual Basic">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="XML">
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="to-do list">
+      <ColorPair Category="Text" Foreground="#000000" Background="#FFFFFF" Auto="true"/>
+      <ColorPair Category="Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Comments">
+Normal
+      </FontStyle>
+      <ColorPair Category="Alternate Block Comments" Foreground="#008080" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Alternate Block Comments">
+Normal
+      </FontStyle>
+      <ColorPair Category="Strings" Foreground="#808080" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Strings">
+Normal
+      </FontStyle>
+      <ColorPair Category="Numbers" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Numbers">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 1" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 2" Foreground="#FF0000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 2">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 3" Foreground="#FF8000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 3">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#008000" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 5" Foreground="#804040" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 5">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 6" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 6">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 8" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 8">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 9" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 9">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 10" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 10">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 11" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 11">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 12" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 12">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 13">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 14" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 14">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 15" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 15">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 16" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 16">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 17" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 17">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 18" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 18">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 19" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 19">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 20" Foreground="#0000FF" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 20">
+Normal
+      </FontStyle>
+    </Language>
+  </Languages>
+</UETheme>

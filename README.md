@@ -2,7 +2,7 @@
 
 The official repo for UE/UES editor themes.
 
-# Adding a new theme
+### Adding a new theme
 
 Users who are less comfortable with git and/or GitHub are still welcome to submit new themes to support@ultraedit.com. But we encourage
 more advanced users to submit any proposed changes or new themes directly through our GitHub repo. Submit a pull request, and once we've 
