@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:6
+-12:0:0:0:600:0:0:0:0:3:2:1:18
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:6
+-13:0:0:0:400:0:0:0:255:0:0:0:18
     </Font>
     <Font Category="Hex/Column" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:6
+-13:0:0:0:400:0:0:0:255:0:0:0:18
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
@@ -498,6 +498,10 @@ Normal
       <FontStyle Category="Color Group 3">
 Normal
       </FontStyle>
+      <ColorPair Category="Color Group 4" Foreground="#AA0055" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 4">
+Normal
+      </FontStyle>
       <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 13">
 Bold
@@ -554,6 +558,10 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 7" Foreground="#247599" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 7">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 10" Foreground="#AA0055" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 10">
 Normal
       </FontStyle>
       <ColorPair Category="Color Group 13" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
@@ -706,6 +714,7 @@ Normal
       </FontStyle>
     </Language>
     <Language Name="UE Themes">
+      <ColorPair Category="Text" Foreground="#5A7896" Background="#FFFFFF" Auto="true"/>
       <ColorPair Category="Color Group 3" Foreground="#FF8040" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 3">
 Normal
