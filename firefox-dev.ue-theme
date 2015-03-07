@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:3
+-12:0:0:0:600:0:0:0:0:3:2:1:10
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:3
+-13:0:0:0:400:0:0:0:255:0:0:0:10
     </Font>
     <Font Category="Hex/Column" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:3
+-13:0:0:0:400:0:0:0:255:0:0:0:10
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
@@ -720,6 +720,24 @@ Normal
       </FontStyle>
       <ColorPair Category="Color Group 9" Foreground="#FF0080" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 9">
+Normal
+      </FontStyle>
+    </Language>
+    <Language Name="Registry">
+      <ColorPair Category="Strings" Foreground="#5C6773" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Strings">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 6" Foreground="#AA0055" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 6">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 7" Foreground="#FF8000" Background="#000000" Auto="true"/>
+      <FontStyle Category="Color Group 7">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 8" Foreground="#831C72" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 8">
 Normal
       </FontStyle>
     </Language>
