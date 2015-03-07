@@ -5,7 +5,7 @@
 Custom
     </Look>
     <Font Category="Dockable Windows" Face="Source Code Pro Semibold">
--12:0:0:0:600:0:0:0:0:3:2:1:18
+-12:0:0:0:600:0:0:0:0:3:2:1:3
     </Font>
     <Color ID="ID_DOCKABLE_WINDOW_TEXT" Category="Dockable Window" Description="Text" Value="#C8CDD2"/>
     <Color ID="ID_DOCKABLE_WINDOW_BACKGROUND" Category="Dockable Window" Description="Background" Value="#181D20"/>
@@ -137,10 +137,10 @@ Custom
   </Window>
   <Editor>
     <Font Category="Normal" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:18
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
     <Font Category="Hex/Column" Face="Source Code Pro Semibold">
--13:0:0:0:400:0:0:0:255:0:0:0:18
+-13:0:0:0:400:0:0:0:255:0:0:0:3
     </Font>
     <Boolean Category="Active Line" Value="true"/>
     <Boolean Category="Active Column" Value="false"/>
@@ -483,6 +483,16 @@ Normal
       <ColorPair Category="Color Group 20" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
       <FontStyle Category="Color Group 20">
 Normal
+      </FontStyle>
+    </Language>
+    <Language Name="Document Type Definition (DTD)">
+      <ColorPair Category="Strings" Foreground="#5391C4" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Strings">
+Normal
+      </FontStyle>
+      <ColorPair Category="Color Group 1" Foreground="#247599" Background="#FFFFFF" Auto="true"/>
+      <FontStyle Category="Color Group 1">
+Italic
       </FontStyle>
     </Language>
     <Language Name="HTML">
