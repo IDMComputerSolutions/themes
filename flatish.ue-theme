@@ -157,7 +157,7 @@ Custom
     <Color Category="Spaces, Tabs, Line Terminators" Value="#778288"/>
     <Color Category="Bookmarks" Value="#631414"/>
     <Color Category="Column Markers" Value="#303030"/>
-    <Color Category="Read-Only Background" Value="#532222"/>
+    <Color Category="Read-Only Background" Value="#74F6A7"/>
     <Color Category="LCI Saved" Value="#2ECC71"/>
     <Color Category="LCI Unsaved" Value="#E74C3C"/>
   </Editor>
